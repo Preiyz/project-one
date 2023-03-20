@@ -1,0 +1,10 @@
+cat - to view contents of a file
+ls - to view the contents of a folder
+cd - to change directory
+pwd - to know your current directory
+whoami - to know the user currently in use
+grep - to filter and retrieve contents of a file
+rm - to remove a file
+mkdir - to create a directory
+touch - to create a file
+cp - to copy a file
