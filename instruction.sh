@@ -28,7 +28,7 @@ sleep 3
 echo "This machine has ran for"
 #This command shows the running time of the machine
 uptime
-sleep 3
+sleep 6
 clear
 
 
